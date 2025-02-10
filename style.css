@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: #f9f9f9;
+    color: #333;
+    text-align: center;
+    background:url(https://i.postimg.cc/L6gZnsCf/jajka-na-swieta-wielkanocne-267895-2955.avif) ;
+    background-size: cover;
+}
+
+h1 {
+    color: #4CAF50;
+}
+
+p {
+    color: red;
+}
