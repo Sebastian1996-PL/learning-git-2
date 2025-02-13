@@ -63,7 +63,6 @@
     "glob-parent": "^5.1.2",
     "graceful-fs": "^4.2.11",
     "has-flag": "^4.0.0",
-    "html-validate": "^9.2.2",
     "http-errors": "^2.0.0",
     "http-proxy": "^1.18.1",
     "iconv-lite": "^0.4.24",
@@ -154,7 +153,8 @@
     "yargs-parser": "^21.1.1"
   },
   "devDependencies": {
-    "browser-sync": "^3.0.3"
+    "browser-sync": "^3.0.3",
+    "html-validate": "^9.2.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
